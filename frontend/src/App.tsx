@@ -8,6 +8,7 @@ import HomePage from "./components/HomePage"
 
 class App extends React.Component<{}, {}> {
 
+
     render() {
         return (
             <Router basename={process.env.PUBLIC_URL}>
@@ -29,4 +30,6 @@ class App extends React.Component<{}, {}> {
 
     }
 }
+
+
 export default App;

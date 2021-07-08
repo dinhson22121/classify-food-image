@@ -3,17 +3,8 @@ description: Classify Food Image Using Deep Learning
 about:
 
 
-  This is an Image Classifier using deep learning built on top of TensorFlow.
+  This is an classify-food-imagefier using deep learning built on top of TensorFlow.
 
-
-  The project was built by [Nidhin Pattaniyil](https://npatta01.github.io)
-  and [Reshama Shaikh](https://reshamas.github.io).
-
-
-  More information can be found in the [Manning Course](https://liveproject.manning.com/).  
-
-  
-  Source code can be found in this repository [deploying-web-app](https://github.com/reshamas/deploying-web-app).
 
 
 code: https://github.com/reshamas/deploying-web-app.git
