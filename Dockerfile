@@ -7,7 +7,7 @@ COPY frontend/ ./
 RUN mkdir - p ../backend && yarn build
 
 
-FROM python:3.8
+FROM python:3.6
 WORKDIR /app
 COPY backend/requirements.txt ./
 RUN pip install -r requirements.txt
