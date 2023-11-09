@@ -5,7 +5,6 @@ node_modules
 frontend/config.yaml
 build
 frontend/*.zip
-artifacts
 .DS_Store
 backend/__pycache__/
 backend/assets/
